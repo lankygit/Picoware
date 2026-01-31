@@ -4,7 +4,7 @@
 > If you're using PicoCalc, make sure to update your keyboard firmware first: https://github.com/jblanked/awesome-pico-calc/blob/master/GettingStarted.md#updating-the-stm32>
 
 **Universal Method**
-1. Download the appropiate build from the `builds` directory.
+1. Download the appropriate build from the `builds` directory.
 2. Press and hold the `BOOT` button on your Raspberry Pi Pico/W or Pico 2/2W.
 3. While holding the `BOOT` button, connect the Pico to your computer using a USB cable (that supports data transfer) until your computer recognizes a new storage device.
 4. Drag and drop the downloaded file onto the device that appears (it should be named `RPI-RP2` if using a Raspberry Pi Pico/W or `RP2350` if using a Raspberry Pi Pico 2/2W). 
